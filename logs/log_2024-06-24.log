@@ -1,0 +1,1 @@
+2024-06-24 09:50:17,707 - _client.py[line:1026] - INFO: HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
